@@ -1,2 +1,9 @@
 # RelativisticCollision
 The role of spacetime cavitations and quantum vacuum fluctuation in the mechanism of high-energy collisions.
+
+
+In this phenomenological study, we derive the interaction potential between quarks—both within mesons and baryons and as isolated entities—by solving the inverse Schrödinger equation, with the aim of clarifying the mechanisms underlying high-energy collisions. We examine the cavitations effect within the spacetime fabric during relativistic collisions, as well as the mechanism of quark formation driven by the excitation of the quantum vacuum. The mechanical energy transferred from cavitations bubble collapse converts virtual quarks into real ones in the output channels. Hadronization process is not a consequence of quark confinement; rather, it arises from the excitation of the quantum vacuum by the energy density of the bubble. The resulting potential reveals the quark confinement region, along with three points of stable equilibrium associated with the color charges of the quarks.
+
+O papel da cavitação do espaço tempo e da flutuação do vácuo quântico no mecanismo das colisões de alta energia.
+
+Neste estudo fenomenológico obtemos a diferença de potencial de interação entre os quarks em mesons e barions e os quarks isolados pela solução inversa da equação de Schrodinger para esclarecer o mecanismo das colisões de altas energias. Estudamos o efeito de cavitação da malha do espaço tempo na colisão relativística e o mecanismo de formação de quarks pela excitação do vácuo quântico. A transferência de energia mecânica pelo colapso da bolha de cavitação torna os quarks virtuais em reais nos canais de saída. O processo de hadronização não é consequência do confinamento dos quarks, mas ocorre pela excitação do vácuo quântico pela densidade de energia da bolha. No potencial obtido pode-se ver a região de confinamento dos quarks e os três pontos de equilíbrio estável associados às cargas de cores dos quarks.
